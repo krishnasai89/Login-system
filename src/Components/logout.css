@@ -1,0 +1,28 @@
+.logout{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+}
+
+.logout h1{
+    font-size: 2rem;
+    color: #333;
+}
+
+.user_name{
+    font-size: 2.1rem;
+    color: #af08f1;
+}
+
+.logout_btn{
+    margin-top: 7rem;
+    margin-left: -9rem;
+    padding: 0.5rem 1rem;
+    background-color: #af08f1;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
